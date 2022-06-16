@@ -1,1 +1,1 @@
-# edxproject
+# coding-project-template
